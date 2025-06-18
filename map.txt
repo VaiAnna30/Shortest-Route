@@ -1,3 +1,4 @@
+// this wil store the map i.e. the coordinates roads i.e the edges
 50 75
 0 85 95
 1 83 27
